@@ -1,4 +1,4 @@
-audioop-lts
+audioop
 gtts
 pydub
 streamlit
